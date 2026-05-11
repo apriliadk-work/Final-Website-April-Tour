@@ -15,11 +15,11 @@ export const tourPackages: TourPackage[] = [
     badge: "Best Seller",
     rating: 5,
     image:
-      "https://images.unsplash.com/photo-1589182337358-2cb63099350c?auto=format&fit=crop&w=1600&q=80",
+      "/images/pake1-bromo-apriljavi.jpg",
     gallery: [
-      "https://images.unsplash.com/photo-1589182337358-2cb63099350c?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1605379399843-5870eea9b74e?auto=format&fit=crop&w=1200&q=80",
+      "/images/pake1-bromo-apriljavi.jpg",
+      "/images/pake1-bromo-apriljavi.jpg",
+      "/images/pake1-bromo-apriljavi.jpg",
     ],
     category: "1-day",
     description:
