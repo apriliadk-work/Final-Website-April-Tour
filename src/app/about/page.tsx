@@ -17,12 +17,12 @@ export const metadata: Metadata = {
 const values = [
   {
     icon: Heart,
-    title: "Crafted with care",
-    description: "Every itinerary is hand-designed around your pace, interests, and the rhythm of the destination — never copied from a template.",
+    title: "Personal Approach",
+    description: "We adjust the trip based on your arrival time, travel style, energy level, and what you actually want to see.",
   },
   {
     icon: Compass,
-    title: "Local & honest",
+    title: "Local & Authentic",
     description: "We're based in Malang, East Java. Our guides know the back roads, the quiet viewpoints, and the warungs serving the best nasi goreng.",
   },
   {
@@ -32,8 +32,8 @@ const values = [
   },
   {
     icon: Users,
-    title: "Travellers first",
-    description: "From solo travellers to multi-generation families — over 25 countries trust us to deliver the East Java they dreamed of.",
+    title: "Hospitality First",
+    description: " Whether you are travelling solo, with friends, or with family, we want you to enjoy East Java comfortably and at your own pace.",
   },
 ];
 
@@ -44,8 +44,8 @@ export default function AboutPage() {
         eyebrow="About April Tour"
         title="Travel Beyond Borders"
         subtitle="A small, dedicated team based in Malang, East Java — crafting unforgettable journeys for travellers from every corner of the world."
-        image="https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=2400&q=85"
-        imageAlt="Mount Ijen sunrise"
+        image="/images/about-hero.jpg"
+        imageAlt="Tumpak Sewu waterfall"
       />
 
       {/* Story */}
