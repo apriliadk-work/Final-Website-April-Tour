@@ -16,7 +16,7 @@ export function HomeHero() {
     <section className="relative h-[100svh] min-h-[640px] overflow-hidden">
       <div className="absolute inset-0 animate-ken-burns">
         <Image
-          src="/images/hero-bromo.jpg"
+          src="/images/Hero-bromo.jpg"
           alt="Mount Bromo at sunrise — East Java, Indonesia"
           fill
           priority
