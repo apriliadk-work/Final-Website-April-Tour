@@ -68,11 +68,11 @@ export const tourPackages: TourPackage[] = [
     badge: "Most Iconic",
     rating: 5,
     image:
-      "https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=1600&q=80",
+      "/images/pake2-ijen-bromo.jpg",
     gallery: [
-      "https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1571536802807-30451e3955d8?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1623018035782-b269248df916?auto=format&fit=crop&w=1200&q=80",
+      "/images/pake2-ijen-bromo.jpg",
+      "/images/pake2-ijen-bromo.jpg",
+      "/images/pake2-ijen-bromo.jpg",
     ],
     category: "multi-day",
     description:
@@ -121,11 +121,11 @@ export const tourPackages: TourPackage[] = [
     badge: "Waterfall Lover",
     rating: 5,
     image:
-      "https://images.unsplash.com/photo-1605379399843-5870eea9b74e?auto=format&fit=crop&w=1600&q=80",
+      "/images/pake3-tumpaksewu-kapasbiru.jpg",
     gallery: [
-      "https://images.unsplash.com/photo-1605379399843-5870eea9b74e?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1583416750470-965b2707b355?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&w=1200&q=80",
+      "/images/pake3-tumpaksewu-kapasbiru.jpg",
+      "/images/pake3-tumpaksewu-kapasbiru.jpg",
+      "/images/pake3-tumpaksewu-kapasbiru.jpg",
     ],
     category: "1-day",
     description:
