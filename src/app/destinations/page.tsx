@@ -24,10 +24,10 @@ export default function DestinationsPage() {
   return (
     <>
       <PageHero
-        eyebrow="The whole of East Java"
+        eyebrow="Explore East Java"
         title="Our Destinations"
         subtitle="Volcanoes, waterfalls, caves, and hill towns — the corners of Indonesia we know best."
-        image="https://images.unsplash.com/photo-1623018035782-b269248df916?auto=format&fit=crop&w=2400&q=85"
+        image="/images/destinations-hero.jpg"
         imageAlt="East Java landscape"
       />
 
