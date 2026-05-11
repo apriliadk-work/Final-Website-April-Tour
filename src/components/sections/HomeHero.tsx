@@ -68,7 +68,7 @@ export function HomeHero() {
             className="mt-8 max-w-xl text-base md:text-lg text-cream-100/85 leading-relaxed"
           >
             Premium East Java journeys — from the smoking caldera of Mount Bromo to
-            the cathedral waters of Tumpak Sewu. Crafted with care since 2024.
+            the Tumpak Sewu Waterfall. Crafted with care since 2024.
           </motion.p>
 
           <motion.div
