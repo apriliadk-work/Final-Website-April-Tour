@@ -53,7 +53,7 @@ export default function ContactPage() {
         eyebrow="Get in touch"
         title="Plan your East Java journey"
         subtitle="If you need further assistance or would like to request any trip in East Java, please don&apos;t hesitate to contact us."
-        image="https://images.unsplash.com/photo-1583416750470-965b2707b355?auto=format&fit=crop&w=2400&q=85"
+        image="/images/contact-hero.jpg"
         imageAlt="Madakaripura Waterfall"
       />
 
