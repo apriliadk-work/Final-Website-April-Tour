@@ -11,7 +11,7 @@ export const destinations: Destination[] = [
     region: "Probolinggo",
     type: "volcano",
     image:
-      "/images/Hero-bromo.jpg",
+      "/images/destinations-hero.jpg",
     shortDescription:
       "An active volcano set inside a vast caldera — home to East Java's most iconic sunrise.",
     description:
