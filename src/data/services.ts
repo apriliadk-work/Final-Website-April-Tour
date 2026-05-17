@@ -59,7 +59,7 @@ export const faqItems: FaqItem[] = [
   {
     question: "What languages do your guides speak?",
     answer:
-      "Our guides speak fluent English and Bahasa Indonesia. We've hosted travellers from over 25 countries and pride ourselves on clear, friendly communication throughout your trip.",
+      "Our guides speak English and Bahasa Indonesia. We've hosted travellers from over 25 countries and pride ourselves on clear, friendly communication throughout your trip.",
   },
   {
     question: "How fit do I need to be for these tours?",
@@ -74,6 +74,6 @@ export const faqItems: FaqItem[] = [
   {
     question: "How do I pay?",
     answer:
-      "We accept bank transfer, credit card, and for selected packages, an installment plan. A deposit secures your booking; the balance is paid before or on the day of the tour.",
+      "We accept bank transfer or cash. A deposit secures your booking; the balance is paid before or on the day of the tour.",
   },
 ];
